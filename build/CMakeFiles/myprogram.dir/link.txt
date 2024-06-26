@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/myprogram.dir/main.c.o -o myprogram  -Wl,-rpath,/home/joseph/code/learning-cmake/build libmylib.so 
